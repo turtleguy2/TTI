@@ -1,4 +1,4 @@
-// You know there's nothing fancy here anymore to see, but hi, hey, you found it. Good job, you get a cookie, and the knowledge that I'm probably going to hide a boat load of dumb things in here for you to find.
+// Da fuck you doing here? There's nothing here worth reading...
 
 const observer = new MutationObserver(function (mutationsList, observer) {
   const promptModal = document.getElementsByClassName(
